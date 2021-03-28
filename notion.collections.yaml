@@ -1,0 +1,9 @@
+next_idx: 1
+records:
+- collection_id: 35aef9a2-cbca-409c-a0b1-898f5584876e
+  created_time: '2021-03-28 19:32:09'
+  key: vacations
+  last_modified_time: '2021-03-28 19:32:09'
+  page_id: ac0463fa-e7a4-4bf4-940c-169242c8d276
+  view_ids:
+    database_view_id: 51c48c49-c3be-4a0b-9f64-0022e690bde0
